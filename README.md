@@ -1,16 +1,19 @@
 <h1>Pagina de Login do projeto</h1>
 <br>
 <br>
-![pagina de login do site]estoque/imagens/index-php.png)
+<img src="estoque/imagens/index-php.png" alt="pagina de login do site">
+
 <h1>Pagina Inicial</h1>
 <br>
 <br>
-![pagina inicial do site](estoque/imagens/tela-inicial.png)
+<img src="estoque/imagens/tela-inicial.png" alt="pagina inicial do site">
+
 <h1>Pagina Cadastro de produtos</h1>
 <br>
 <br>
-![pagina cadastro de produtos do site](estoque/imagens/tela-cadastro-produtos.png)
+<img src="estoque/imagens/tela-cadastro-produtos.png" alt="pagina cadastro de produtos do site">
+
 <h1>Pagina de Lista de produtos</h1>
 <br>
 <br>
-![pagina lista de produtos site](estoque/imagens/tela-listar-produtos.png)
+<img src="estoque/imagens/tela-listar-produtos.png" alt="pagina lista de produtos site">
